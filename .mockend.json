@@ -1,8 +1,8 @@
 {
   "Order":{
-  "code": {
-    "int": [
-      100
+  "TXNINVOICE": {
+    "string": [
+      "891718420500230"
     ]
   }
   }
