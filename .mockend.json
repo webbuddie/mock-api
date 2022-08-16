@@ -1,5 +1,8 @@
 {
-  "User": {
-    "title": { "string": {} }
+  "code": {
+    "int": [
+      100
+    ]
   }
 }
+
